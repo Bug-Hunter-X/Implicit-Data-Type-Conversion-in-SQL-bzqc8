@@ -1,0 +1,1 @@
+This repository contains examples of an uncommon SQL bug related to implicit data type conversion. The bug occurs when a SQL query uses a function that implicitly converts a string to a number.  This can lead to unexpected behavior if the string is not a valid number. The solution demonstrates how to explicitly convert data types to avoid the bug.
